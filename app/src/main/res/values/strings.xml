@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">zzzPizzza</string>
+
+    <string name="splash_labelPizzaAnimation">Pizza animation</string>
+    <string name="splash_networkErrorRetry">Network error. Retrying in a minute.</string>
+
+    <string name="detail_titleSmall">Pizzas</string>
+    <string name="detail_internalExceptionMessage">Internal error</string>
+    <string name="detail_messageBack">Back</string>
+    <string name="detail_messageFavorite">Favorite</string>
+    <string name="detail_add">Add</string>
+    <string name="detail_priceFormat">$%1$.2f</string>
+    <string name="detail_messageAdded">Added</string>
+    <string name="detail_descriptionDecrease">decrease</string>
+    <string name="detail_descriptionIncrease">increase</string>
+    <string name="detail_descriptionBack">back</string>
+    <string name="detail_descriptionFavorite">add to favorite</string>
+    <string name="detail_descriptionSelectedPizza">selected pizza: %1$s</string>
+    <string name="detail_actionPreviousPizza">previous pizza</string>
+    <string name="detail_actionNextPizza">next pizza</string>
+    <string name="detail_actionZoomIn">zoom in</string>
+    <string name="detail_actionZoomOut">zoom out</string>
+    <string name="detail_descriptionBanana">banana</string>
+</resources>

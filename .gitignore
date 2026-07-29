@@ -1,0 +1,13 @@
+*.iml
+.claude/settings.local.json
+.claude/skills/**/metadata.txt
+.gradle
+.kotlin
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
